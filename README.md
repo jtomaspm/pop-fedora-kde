@@ -6,7 +6,7 @@
 > Run directly from GitHub:
 >
 > ```
-> bash <(wget -qO- https://raw.githubusercontent.com/jtomaspm/pop-fedora/main/install.sh)
+> bash <(wget -qO- https://raw.githubusercontent.com/jtomaspm/pop-fedora-kde/main/install.sh)
 > ```
 >
 > Run from a local checkout:
