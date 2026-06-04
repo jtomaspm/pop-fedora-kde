@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-readonly REPO_ARCHIVE_URL="https://github.com/jtomaspm/pop-fedora/archive/refs/heads/main.tar.gz"
+readonly REPO_ARCHIVE_URL="https://github.com/jtomaspm/pop-fedora-kde/archive/refs/heads/main.tar.gz"
 readonly SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd -P)"
 
 bootstrap_log_section() {
