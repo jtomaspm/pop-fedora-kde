@@ -318,18 +318,8 @@ install_github_cli
 install_development_tooling
 configure_default_shell
 
-pf_log_section "Install Visual Studio Code"
-configure_vscode_repository
-install_vscode
-
-pf_log_section "Install Docker Desktop"
-install_docker
-
 pf_log_section "Install Desktop Applications"
 install_desktop_apps
 
 pf_log_section "Install System Fonts"
 install_nerd_fonts
-
-pf_log_section "Install Global CLI Tools"
-install_global_tools
